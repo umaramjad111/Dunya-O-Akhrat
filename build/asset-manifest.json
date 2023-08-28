@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Dunya-O-Akhrat/static/css/main.666dbd63.css",
+    "main.js": "/Dunya-O-Akhrat/static/js/main.03066a72.js",
+    "static/js/787.7d8e415d.chunk.js": "/Dunya-O-Akhrat/static/js/787.7d8e415d.chunk.js",
+    "static/media/makkah.jpg": "/Dunya-O-Akhrat/static/media/makkah.211ffa678fc16edabad8.jpg",
+    "static/media/madina.jpeg": "/Dunya-O-Akhrat/static/media/madina.10559eccc14a242485c5.jpeg",
+    "static/media/quran.jpg": "/Dunya-O-Akhrat/static/media/quran.e1417d13966351e52421.jpg",
+    "index.html": "/Dunya-O-Akhrat/index.html",
+    "main.666dbd63.css.map": "/Dunya-O-Akhrat/static/css/main.666dbd63.css.map",
+    "main.03066a72.js.map": "/Dunya-O-Akhrat/static/js/main.03066a72.js.map",
+    "787.7d8e415d.chunk.js.map": "/Dunya-O-Akhrat/static/js/787.7d8e415d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666dbd63.css",
+    "static/js/main.03066a72.js"
+  ]
+}
